@@ -1,0 +1,6 @@
+4
+0 bedroom 0 0 CanSleepingHere Sophomore
+1 livingRoom 0 1 CanWatchTV Junior
+2 GameRoom 0 2 PlayGame Senior
+3 bedroom 1 0 CanSnoozingHere Freshman
+n n n
